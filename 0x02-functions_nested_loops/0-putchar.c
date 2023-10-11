@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stio.h>
 /**
  * main - Entry point
  *
@@ -8,7 +8,7 @@
  * Return: Always 0 (Succes)
 */
 
-int main (void)
+int main(void)
 {
 	char str[] = "_putchar";
 	int ch;

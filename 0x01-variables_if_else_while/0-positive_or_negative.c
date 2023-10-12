@@ -8,6 +8,7 @@
 /**
  * main - Prints if number is positive, zero or negative
  * Return : Always (Success)
+ *
 */
 
 int main(void)
@@ -28,7 +29,8 @@ int main(void)
 	}
 	else
 	{
-	printf("%d is is negative\n", n);
+	printf("%d is negative\n", n);
 	}
 	return (0);
+
 }
